@@ -1,0 +1,41 @@
+Loaded 302 images under train
+Loaded 100 images under test
+Classes: 
+The selected classes are:  [0, 1]
+The selected classes are:  [0, 1]
+SVM with kernel: linear
+Confusion Matrix
+[[46  4]
+ [ 2 48]]
+precision score
+0.923
+recall score
+0.96
+f1 score
+0.941
+/ 5 The score for this classification is:  0.94
+------------------------------
+SVM with kernel: poly
+Confusion Matrix
+[[49  1]
+ [ 5 45]]
+precision score
+0.978
+recall score
+0.9
+f1 score
+0.937
+/ 5 The score for this classification is:  0.94
+------------------------------
+SVM with kernel: rbf
+Confusion Matrix
+[[47  3]
+ [ 3 47]]
+precision score
+0.94
+recall score
+0.94
+f1 score
+0.94
+/ 5 The score for this classification is:  0.94
+------------------------------
